@@ -148,7 +148,10 @@ We ran a **two-sample hypothesis test** to evaluate if `verified_status` affects
 <img width="1113" height="152" alt="image" src="https://github.com/user-attachments/assets/379d7c65-3154-4cf2-9fef-ea5e0f2e7b4b" />
 Since the p-value is very small, we reject the null hypothesis and confirmed that the difference between Unverified user accounts and verified user accounts are statistically significant.
 
-📄 [View Hypothesis Test Results](./4_statistical_testing/milestone4_summary.md)
+
+Please find the links of code for hypothesis testing and executive summary:
+<a href = "https://github.com/divyakadava61/TikTok-Claims-Classification/blob/main/Activity_Course%204%20TikTok%20project%20lab.ipynb"> "hypothesis testing python code jupyter notebook" </a>
+📄 <a href="https://github.com/divyakadava61/TikTok-Claims-Classification/blob/main/Course%204%20-%20Executive%20summaries.pdf"> "Executive Summary of Hypothesis testing" </a>
 
 ---
 
