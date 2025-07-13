@@ -145,6 +145,8 @@ We ran a **two-sample hypothesis test** to evaluate if `verified_status` affects
 
 <img width="431" height="107" alt="image" src="https://github.com/user-attachments/assets/42b553ed-438e-4509-af9a-3dc3d0442a42" />
 
+<img width="1113" height="152" alt="image" src="https://github.com/user-attachments/assets/379d7c65-3154-4cf2-9fef-ea5e0f2e7b4b" />
+Since the p-value is very small, we reject the null hypothesis and confirmed that the difference between Unverified user accounts and verified user accounts are statistically significant.
 
 📄 [View Hypothesis Test Results](./4_statistical_testing/milestone4_summary.md)
 
