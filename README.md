@@ -99,7 +99,12 @@ EDA focused on how engagement metrics (views, likes, comments, shares) relate to
 - Strong **right-skew** across engagement variables
 - Opinions are **only posted by active users**
 
-<img width="659" height="745" alt="image" src="https://github.com/user-attachments/assets/c4ad32e0-ed97-4aa7-8e7c-d9afd88e1051" />
+<img width="377" height="393" alt="image" src="https://github.com/user-attachments/assets/feb26e12-a21b-4313-997e-1fe4897e8702" />
+
+<img width="333" height="367" alt="image" src="https://github.com/user-attachments/assets/023c39fe-10fc-4b6a-b688-75cba9771475" />
+
+<img width="661" height="368" alt="image" src="https://github.com/user-attachments/assets/676e3490-ff1b-425d-9744-d2e598f5868a" />
+
 
 
 
