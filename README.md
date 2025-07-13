@@ -21,7 +21,7 @@ This project was structured in **6 phases**, each designed to reflect real data 
 | Phase | Description |
 |-------|-------------|
 | ✅ 1. [Project Proposal](#1-project-proposal) | Planning, stakeholders, and workflow setup |
-| ✅ 2. [Data Understanding](#2-data-understanding) | Initial exploration, structure, and variable selection |
+| ✅ 2. [Data Understanding](#2-data-understanding) | Initial data exploration, structure, and Investigating variables |
 | ✅ 3. [Exploratory Data Analysis (EDA)](#3-exploratory-data-analysis) | Visual insights and engagement trends |
 | ✅ 4. [Statistical Testing](#4-statistical-testing) | Hypothesis testing between account verification and views |
 | ✅ 5. [Regression Analysis](#5-regression-analysis) | Modeling `verified_status` to understand user behavior |
@@ -62,7 +62,7 @@ In the first phase, I created a **project proposal** outlining:
 - Stakeholders
 - The PACE (Plan, Analyze, Construct, Execute) framework
 
-📄 [View Full Proposal Document](./1_project_proposal/project_proposal.md)
+📄 ([./1_project_proposal/project_proposal.md](https://github.com/divyakadava61/TikTok-Claims-Classification/blob/main/TikTok-project-proposal.pdf))
 
 ---
 
@@ -71,14 +71,19 @@ In the first phase, I created a **project proposal** outlining:
 ### Key Insights:
 
 - Data is balanced between claims (9,608) and opinions (9,476)
-- Verified and unverified users show different engagement behavior
-- Engagement metrics show wide variance and skew
+- The mean and median view count show the impact of each category of video (claim or opinion)
+- Identified two important variable to consider, video duration (in seconds), video view count for future prediction models.
+  
 
-📈 **Visualization Suggestions:**
-- Bar plot of `claim_status` counts
-- Table of mean/median engagement metrics by `claim_status`
+<img width="321" height="448" alt="image" src="https://github.com/user-attachments/assets/f58595dc-bcb8-4669-9441-11e09a350659" />
 
-📄 [Executive Summary (Milestone 2)](./2_data_understanding/milestone2_summary.md)
+
+<img width="370" height="183" alt="image" src="https://github.com/user-attachments/assets/1fc3e057-c7bc-46a0-9bf4-efa99092bead" />
+
+<a href ="https://github.com/divyakadava61/TikTok-Claims-Classification/blob/main/Activity_Course%202%20TikTok%20project%20lab.ipynb"> "Understanding dataset using python Jupyter Notebook File" </a>
+
+
+📄([./2_data_understanding/milestone2_summary.md](https://github.com/divyakadava61/TikTok-Claims-Classification/blob/main/executiveSummaryCourse2.pdf))
 
 ---
 
