@@ -93,18 +93,24 @@ The mean and median view counts of each category of video (claim or opinion)
 EDA focused on how engagement metrics (views, likes, comments, shares) relate to `claim_status`.
 
 ### Key Insights:
-- Most videos have **very low engagement** (<100k views, <100 likes)
+- Most videos have **very low engagement** (<100k views, <100k likes)
 - Strong **right-skew** across engagement variables
 - Opinions are **only posted by active users**
 
-📷 **Include:**
-- Histograms of views, likes, comments  
-- Boxplots comparing claims vs. opinions  
-- Tableau Dashboard 📊:  
-  🔗 [Link to Dashboard - Viewer Engagement by Content Type](#)  
-  🔗 [Link to Boxplot Visuals in Tableau](#)
+<img width="659" height="745" alt="image" src="https://github.com/user-attachments/assets/c4ad32e0-ed97-4aa7-8e7c-d9afd88e1051" />
 
-📄 [EDA Summary (Milestone 3)](./3_exploratory_data_analysis/milestone3_summary.md)
+
+
+
+<img width="975" height="875" alt="image" src="https://github.com/user-attachments/assets/735ec589-1491-4a70-a310-0fe1f33572f6" />
+
+
+
+<a href = "https://public.tableau.com/views/EDAofClaimsClassificationDataset_17496565229500/EDAofClaimsClassificationDataset?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"> "EDA of TikTok Claims Dataset Tableau Dashboard Insights" </a>
+
+<a href = "https://github.com/divyakadava61/TikTok-Claims-Classification/blob/main/Activity_Course%203%20TikTok%20project%20lab.ipynb"> "EDA Jupyter Notebook" </a>
+
+📄 <a href = "https://github.com/divyakadava61/TikTok-Claims-Classification/blob/main/Activity%20Templates_%20Executive%20summaries.pdf"> "EDA Executive Summary" </a>
 
 ---
 
