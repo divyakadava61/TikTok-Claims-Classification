@@ -81,6 +81,8 @@ The mean and median view counts of each category of video (claim or opinion)
 
 <img width="370" height="183" alt="image" src="https://github.com/user-attachments/assets/1fc3e057-c7bc-46a0-9bf4-efa99092bead" />
 
+Please find the links for code and executive summary for understanding data:
+
 <a href ="https://github.com/divyakadava61/TikTok-Claims-Classification/blob/main/Activity_Course%202%20TikTok%20project%20lab.ipynb"> "Understanding dataset using python Jupyter Notebook File" </a>
 
 
@@ -105,6 +107,8 @@ EDA focused on how engagement metrics (views, likes, comments, shares) relate to
 <img width="975" height="875" alt="image" src="https://github.com/user-attachments/assets/735ec589-1491-4a70-a310-0fe1f33572f6" />
 
 
+
+Please find the links for code and Tableau dashboards:
 
 <a href = "https://public.tableau.com/views/EDAofClaimsClassificationDataset_17496565229500/EDAofClaimsClassificationDataset?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"> "EDA of TikTok Claims Dataset Tableau Dashboard Insights" </a>
 
