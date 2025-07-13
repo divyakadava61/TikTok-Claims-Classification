@@ -115,6 +115,14 @@ EDA focused on how engagement metrics (views, likes, comments, shares) relate to
 
 
 
+<img width="1260" height="826" alt="Boxplots of video engagement variables" src="https://github.com/user-attachments/assets/988c0685-4d33-4649-9d34-3a2407f5b4ea" />
+
+
+
+
+
+
+
 
 Please find the links for code and Tableau dashboards:
 
