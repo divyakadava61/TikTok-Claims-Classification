@@ -62,7 +62,7 @@ In the first phase, I created a **project proposal** outlining:
 - Stakeholders
 - The PACE (Plan, Analyze, Construct, Execute) framework
 
-📄 ([./1_project_proposal/project_proposal.md](https://github.com/divyakadava61/TikTok-Claims-Classification/blob/main/TikTok-project-proposal.pdf))
+📄 [Project_Proposal]([./1_project_proposal/project_proposal.md](https://github.com/divyakadava61/TikTok-Claims-Classification/blob/main/TikTok-project-proposal.pdf))
 
 ---
 
@@ -77,13 +77,14 @@ In the first phase, I created a **project proposal** outlining:
 
 <img width="321" height="448" alt="image" src="https://github.com/user-attachments/assets/f58595dc-bcb8-4669-9441-11e09a350659" />
 
+The mean and median view counts of each category of video (claim or opinion)
 
 <img width="370" height="183" alt="image" src="https://github.com/user-attachments/assets/1fc3e057-c7bc-46a0-9bf4-efa99092bead" />
 
 <a href ="https://github.com/divyakadava61/TikTok-Claims-Classification/blob/main/Activity_Course%202%20TikTok%20project%20lab.ipynb"> "Understanding dataset using python Jupyter Notebook File" </a>
 
 
-📄([./2_data_understanding/milestone2_summary.md](https://github.com/divyakadava61/TikTok-Claims-Classification/blob/main/executiveSummaryCourse2.pdf))
+📄[Data_understanding_using_python (Milestone 2)]([./2_data_understanding/milestone2_summary.md](https://github.com/divyakadava61/TikTok-Claims-Classification/blob/main/executiveSummaryCourse2.pdf))
 
 ---
 
