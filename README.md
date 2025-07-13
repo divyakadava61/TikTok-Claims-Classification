@@ -143,10 +143,8 @@ We ran a **two-sample hypothesis test** to evaluate if `verified_status` affects
 - The mean difference was **statistically significant**
 - Suggests potential differences in posting behavior or manipulation
 
-📈 Include:
-- Distribution plots of `video_view_count` by `verified_status`
-- Table comparing mean & standard deviation
-- Results of t-test with confidence interval
+<img width="431" height="107" alt="image" src="https://github.com/user-attachments/assets/42b553ed-438e-4509-af9a-3dc3d0442a42" />
+
 
 📄 [View Hypothesis Test Results](./4_statistical_testing/milestone4_summary.md)
 
