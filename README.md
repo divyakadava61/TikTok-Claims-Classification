@@ -109,7 +109,9 @@ EDA focused on how engagement metrics (views, likes, comments, shares) relate to
 
 
 
-<img width="975" height="875" alt="image" src="https://github.com/user-attachments/assets/735ec589-1491-4a70-a310-0fe1f33572f6" />
+<img width="862" height="771" alt="image" src="https://github.com/user-attachments/assets/6cf9a6e9-dae0-42fa-90c7-788726dfa633" />
+
+
 
 
 
