@@ -265,6 +265,7 @@ The best parameters model provided after tuning hyperparameters
 **Please find the links for machine learning code and executive summary**:
 
 <a href = "https://github.com/divyakadava61/TikTok-Claims-Classification/blob/main/Activity_Course%206%20TikTok%20project%20lab.ipynb"> "Machine Learning for TikTok claims dataset Jupyter Notebook" </a>
+
 <a href = "https://github.com/divyakadava61/TikTok-Claims-Classification/blob/main/Activity%20Templates_%20Executive%20summaries.pdf"> "Executive Summary" </a>
 
 
