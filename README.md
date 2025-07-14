@@ -198,23 +198,53 @@ Please find the links for logistic regression modeling code and executive summar
 
 ## 🤖 6. Machine Learning Models
 
-We built and evaluated two classification models to predict `claim_status`:
 
-- **Random Forest** ✅ *Final Model*
-- **XGBoost**
+We built and evaluated two classification models to predict claim_status using both structured engagement data and unstructured text data from video transcriptions.
+
+### Techniques Used:
+Text preprocessing (NLP): Tokenization, vectorization using TF-IDF
+
+Model Types: Random Forest and XGBoost
+
+Hyperparameter Tuning: Grid Search with Cross-Validation
+
+Feature Fusion: Combined text features with video metadata
 
 ### Final Results (Test Set):
-- **Random Forest Accuracy:** 99.8%
-- **Recall:** 0.995
-- **Misclassifications:** Only 5 out of 3,817
-- Top features: `video_view_count`, `video_like_count`, `share_count`, `download_count`
+Champion Model: **Random Forest**
 
-📷 Include:
-- Confusion matrix for final model ![rf-confusion](./6_ml_modeling/rf_confusion_matrix.png)
-- Feature importance plot (Random Forest)
-- Performance metrics table
+**Accuracy**: 99.97%
 
-📄 [Final Model Summary (Milestone 6)](./6_ml_modeling/milestone6_summary.md)
+**Recall**: 99.97%
+
+**Misclassifications**: Only 5 out of 3,817
+
+Key Features:
+Top structured predictors: video_view_count, video_like_count, video_share_count, video_download_count
+
+<img width="860" height="678" alt="image" src="https://github.com/user-attachments/assets/0c28adf4-7949-4101-934b-381e6ca50363" />
+
+
+Confusion matrix of Random Forest model
+
+<img width="726" height="638" alt="image" src="https://github.com/user-attachments/assets/8df6f9bf-0411-4bb5-94c9-f2fdb56d28d7" />
+
+Model important features predicted
+
+<img width="926" height="654" alt="image" src="https://github.com/user-attachments/assets/b8fc9a13-8e23-406b-8883-81f45372ce4b" />
+
+The best parameters model provided after tuning hyperparameters
+
+<img width="878" height="251" alt="image" src="https://github.com/user-attachments/assets/38799164-a528-4044-910d-592c8343d773" />
+
+
+Please find the links for machine learning code and executive summary:
+
+
+
+
+
+
 
 ---
 
