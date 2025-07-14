@@ -74,7 +74,7 @@ In the first phase, I created a **project proposal** outlining:
 - The mean and median view count show the impact of each category of video (claim or opinion)
 - Identified two important variable to consider, video duration (in seconds), video view count for future prediction models.
   
-## Visualizations
+### Visualizations
 
 
 
@@ -158,7 +158,7 @@ We ran a **two-sample hypothesis test** to evaluate if `verified_status` affects
 - The mean difference was **statistically significant**
 - Suggests potential differences in posting behavior or manipulation
 
-### Visualizations
+### Analysis
 
 
 <img width="431" height="107" alt="image" src="https://github.com/user-attachments/assets/42b553ed-438e-4509-af9a-3dc3d0442a42" />
@@ -293,8 +293,5 @@ The current version of the model does not need any new features. However, it wou
 
 ---
 
-| `/6_ml_modeling/` | Final machine learning models and test results |
-
----
 
 
