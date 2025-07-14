@@ -189,9 +189,10 @@ Based on the logistic regression model, each additional second of the video is a
 
 Please find the links for logistic regression modeling code and executive summary:
 
+<a href = "https://github.com/divyakadava61/TikTok-Claims-Classification/blob/main/Activity_Course%205%20TikTok%20project%20lab.ipynb"> "Logistic Regression Jupiter Notebook" </a>
 
 
-📄 [Regression Summary (Milestone 5)](./5_regression_model/milestone5_summary.md)
+📄 <a href = "https://github.com/divyakadava61/TikTok-Claims-Classification/blob/main/Regression_analysis_executive_summary.pdf"> "Executive Summary" </a>
 
 ---
 
