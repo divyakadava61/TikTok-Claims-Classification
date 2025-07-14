@@ -74,7 +74,15 @@ In the first phase, I created a **project proposal** outlining:
 - The mean and median view count show the impact of each category of video (claim or opinion)
 - Identified two important variable to consider, video duration (in seconds), video view count for future prediction models.
   
-### Visualizations
+## Visualizations
+
+
+
+
+
+
+
+
 
 
 <img width="321" height="448" alt="image" src="https://github.com/user-attachments/assets/f58595dc-bcb8-4669-9441-11e09a350659" />
