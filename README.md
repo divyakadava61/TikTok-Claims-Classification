@@ -172,9 +172,24 @@ We used a **logistic regression model** to predict whether an account is verifie
 - Longer videos tend to be associated with **verified accounts**
 - Other features had limited predictive value
 
-📷 Include:
-- Confusion matrix for logistic regression ![logistic-confusion](./5_regression_model/confusion_matrix_lr.png)
-- Bar plot of logistic regression coefficients
+Heatmap of correlation between variables:
+
+<img width="975" height="796" alt="image" src="https://github.com/user-attachments/assets/2fd35e72-521b-4d8e-89d5-b241734cffc2" />
+
+
+Confusion matrix of logistic regression
+
+<img width="745" height="615" alt="image" src="https://github.com/user-attachments/assets/16a10e03-426d-4f36-80b0-abaee867675e" />
+
+
+<img width="510" height="408" alt="image" src="https://github.com/user-attachments/assets/8de71a00-9c7e-4e77-aa87-3ed23f7d2990" />
+
+Based on the logistic regression model, each additional second of the video is associated with 0.009 increase in the log-odds of the user having a verified status.
+
+
+Please find the links for logistic regression modeling code and executive summary:
+
+
 
 📄 [Regression Summary (Milestone 5)](./5_regression_model/milestone5_summary.md)
 
