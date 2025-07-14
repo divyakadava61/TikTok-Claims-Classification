@@ -20,12 +20,12 @@ This project was structured in **6 phases**, each designed to reflect real data 
 
 | Phase | Description |
 |-------|-------------|
-| ✅ 1. [Project Proposal](#1_project_proposal) | Planning, stakeholders, and workflow setup |
-| ✅ 2. [Data Understanding](#2_data_understanding) | Initial data exploration, structure, and Investigating variables |
-| ✅ 3. [Exploratory Data Analysis (EDA)](#3_exploratory_data_analysis) | Visual insights and engagement trends |
-| ✅ 4. [Statistical Testing](#4_statistical_testing) | Hypothesis testing between account verification and views |
-| ✅ 5. [Regression Analysis](#5_regression_analysis) | Modeling `verified_status` to understand user behavior |
-| ✅ 6. [ML Modeling & Evaluation](#6_machine_learning_models) | Final claim classification using Random Forest & XGBoost |
+| ✅ 1. Project Proposal | Planning, stakeholders, and workflow setup |
+| ✅ 2. Data Understanding | Initial data exploration, structure, and Investigating variables |
+| ✅ 3. Exploratory Data Analysis (EDA) | Visual insights and engagement trends |
+| ✅ 4. Statistical Testing | Hypothesis testing between account verification and views |
+| ✅ 5. Regression Analysis | Modeling `verified_status` to understand user behavior |
+| ✅ 6. ML Modeling & Evaluation | Final claim classification using Random Forest & XGBoost |
 
 ---
 
@@ -74,12 +74,15 @@ In the first phase, I created a **project proposal** outlining:
 - The mean and median view count show the impact of each category of video (claim or opinion)
 - Identified two important variable to consider, video duration (in seconds), video view count for future prediction models.
   
-**Visualizations**
+### Visualizations
+
+
 <img width="321" height="448" alt="image" src="https://github.com/user-attachments/assets/f58595dc-bcb8-4669-9441-11e09a350659" />
 
 The mean and median view counts of each category of video (claim or opinion)
 
 <img width="370" height="183" alt="image" src="https://github.com/user-attachments/assets/1fc3e057-c7bc-46a0-9bf4-efa99092bead" />
+
 
 **Please find the links for code and executive summary for understanding data**:
 
@@ -100,7 +103,8 @@ EDA focused on how engagement metrics (views, likes, comments, shares) relate to
 - Opinions are **only posted by active users**
 
 
-  **Visualizations**
+### Visualizations
+
 
 <img width="377" height="393" alt="image" src="https://github.com/user-attachments/assets/feb26e12-a21b-4313-997e-1fe4897e8702" />
 
@@ -146,7 +150,9 @@ We ran a **two-sample hypothesis test** to evaluate if `verified_status` affects
 - The mean difference was **statistically significant**
 - Suggests potential differences in posting behavior or manipulation
 
-**Visualizations**
+### Visualizations
+
+
 <img width="431" height="107" alt="image" src="https://github.com/user-attachments/assets/42b553ed-438e-4509-af9a-3dc3d0442a42" />
 
 <img width="1113" height="152" alt="image" src="https://github.com/user-attachments/assets/379d7c65-3154-4cf2-9fef-ea5e0f2e7b4b" />
@@ -177,7 +183,9 @@ We used a **logistic regression model** to predict whether an account is verifie
 - Other features had limited predictive value
 
 
-**Visualizations**
+### Visualizations
+
+
 Heatmap of correlation between variables:
 
 <img width="975" height="796" alt="image" src="https://github.com/user-attachments/assets/2fd35e72-521b-4d8e-89d5-b241734cffc2" />
@@ -228,7 +236,7 @@ Champion Model: **Random Forest**
 Key Features:
 Top structured predictors: video_view_count, video_like_count, video_share_count, video_download_count
 
-**Visualizations**
+### Visualizations
 
 <img width="860" height="678" alt="image" src="https://github.com/user-attachments/assets/0c28adf4-7949-4101-934b-381e6ca50363" />
 
@@ -277,15 +285,6 @@ The current version of the model does not need any new features. However, it wou
 
 ---
 
-## 🧭 Repo Navigation Guide
-
-| Folder | Description |
-|--------|-------------|
-| `/1_project_proposal/` | Project proposal and stakeholder planning |
-| `/2_data_understanding/` | Data schema, summary statistics |
-| `/3_exploratory_data_analysis/` | Python & Tableau visualizations |
-| `/4_statistical_testing/` | Hypothesis test notebooks |
-| `/5_regression_model/` | Logistic regression model and results |
 | `/6_ml_modeling/` | Final machine learning models and test results |
 
 ---
