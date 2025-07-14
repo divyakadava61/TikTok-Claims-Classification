@@ -240,10 +240,8 @@ The best parameters model provided after tuning hyperparameters
 
 Please find the links for machine learning code and executive summary:
 
-
-
-
-
+<a href = "https://github.com/divyakadava61/TikTok-Claims-Classification/blob/main/Activity_Course%206%20TikTok%20project%20lab.ipynb"> "Machine Learning for TikTok claims dataset Jupyter Notebook" </a>
+<a href = "https://github.com/divyakadava61/TikTok-Claims-Classification/blob/main/Activity%20Templates_%20Executive%20summaries.pdf"> "Executive Summary" </a>
 
 
 ---
@@ -252,15 +250,11 @@ Please find the links for machine learning code and executive summary:
 
 - Monitor engagement metrics over time for data drift
 - Re-train model periodically to adapt to changes
-- Consider adding **NLP analysis** on `video_transcription_text` for richer context
 
 ---
 
 ## ✅ Future Improvements
-
-- Add natural language processing (NLP) to analyze speech/text from video
-- Tune hyperparameters using grid search / cross-validation
-- Deploy model using a Flask app or on OCI Data Science Platform
+The current version of the model does not need any new features. However, it would be helpful to have the number of times the video was reported. It would also be useful to have the total number of user reports for all videos posted by each author.
 
 ---
 
@@ -268,7 +262,7 @@ Please find the links for machine learning code and executive summary:
 
 | Category       | Tools Used |
 |----------------|-------------|
-| Languages      | Python (Pandas, NumPy, SciPy, Sklearn) |
+| Languages      | Python (Pandas, NumPy, SciPy, Statsmodels, Sklearn) |
 | ML Models      | Logistic Regression, Random Forest, XGBoost |
 | Visualization  | Tableau, Matplotlib, Seaborn |
 | Reporting      | Markdown, Jupyter, Tableau Dashboards |
@@ -288,13 +282,4 @@ Please find the links for machine learning code and executive summary:
 
 ---
 
-## 🚀 Getting Started
-
-To run this project locally:
-
-```bash
-git clone https://github.com/yourusername/tiktok-claims-classification.git
-cd tiktok-claims-classification
-pip install -r requirements.txt
-jupyter notebook
 
